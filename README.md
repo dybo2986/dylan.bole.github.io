@@ -17,7 +17,7 @@ GitHub-ready export of Dylan Bole's portfolio website.
 
 - This folder contains only the files used by the live website.
 - Large PNG images were resized and converted to JPEG for faster loading.
-- The footer email is still a placeholder and should be updated before publishing.
+- The footer email is set to `dybo2986@colorado.edu`.
 
 ## Publish
 
